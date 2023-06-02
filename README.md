@@ -23,13 +23,12 @@ Prosthetics are artificial devices to replace or augment a missing or impaired p
 
 ![1](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/a23c5316-3562-440e-b0d4-dbf49a179e73)
 ![2](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/fc815c5b-8aa5-4f8a-817d-21197937ff31)
-
 ![3](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/2c93656c-0747-4518-902b-114b761b9d50)
 ![4](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/f3677851-8bb9-4afc-bad2-5f44f4eee30d)
 
-![Uploading ML1.png…]()
-![Uploading ML2.png…]()
-![Uploading ML3.png…]()
+![ML1](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/bde9af8b-cb74-4ee7-83ca-937f0ed15557)
+![ML2](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/d525c626-4e2e-4b60-b1af-d39221a25edf)
+![ML3](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/83a48783-213b-48f2-8935-dd7ea58562d7)
 
 
 Prototype - [https://www.figma.com/file/hx2isJni2TDckoRV3V6KZk/DevSoc'23-Complete?type=design&node-id=0%3A1&t=qzw3UevQSDuzPpzW-1]
