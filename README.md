@@ -29,6 +29,6 @@ Prosthetics are artificial devices to replace or augment a missing or impaired p
 
 
 
-Figma - [https://www.figma.com/file/hx2isJni2TDckoRV3V6KZk/DevSoc'23-Complete?type=design&node-id=0%3A1&t=qzw3UevQSDuzPpzW-1]
+Prototype - [https://www.figma.com/file/hx2isJni2TDckoRV3V6KZk/DevSoc'23-Complete?type=design&node-id=0%3A1&t=qzw3UevQSDuzPpzW-1]
 
 Doc Link - [https://docs.google.com/document/d/166AJwkaBqNOfEgH4zENIPZ66LMRVdIwkqrhQBT6y0oQ/edit?usp=sharing]
