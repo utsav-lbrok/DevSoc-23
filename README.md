@@ -16,3 +16,5 @@ Implementing  ML algorithms
 
 Project Name: 
 ProsTech - Unifying Prosthetic Access and Support
+
+<img width="824" alt="Screenshot 2023-06-02 at 8 04 19 AM" src="https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/414e467e-a953-4250-b75c-c9af03e12bd4">
