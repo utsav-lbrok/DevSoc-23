@@ -19,9 +19,15 @@ ProsTech - Unifying Prosthetic Access and Support
 
 Prosthetics are artificial devices to replace or augment a missing or impaired part of the body. Prosthetic limbs are made from plastic polymers, which bond fabric-based layers together to make a prosthesis that is strong yet lightweight. Manually made prosthetic devices may lack the accuracy of measurements in lengths and circumference. We are designing a UI/UX and building an app/software that can take accurate measurements to make prosthetics of the precise and perfect fitting.
 
-<img width="824" alt="Screenshot 2023-06-02 at 8 04 19 AM" src="https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/414e467e-a953-4250-b75c-c9af03e12bd4">
-<img width="743" alt="Screenshot 2023-06-02 at 9 36 01 PM" src="https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/f2f22899-9a3e-41a2-b0b5-d4844c25f85c">
-<img width="578" alt="Screenshot 2023-06-02 at 9 36 15 PM" src="https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/7d9c6118-db91-44b8-be76-ba809e6ad165">
+
+
+![1](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/a23c5316-3562-440e-b0d4-dbf49a179e73)
+![2](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/fc815c5b-8aa5-4f8a-817d-21197937ff31)
+
+![3](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/2c93656c-0747-4518-902b-114b761b9d50)
+![4](https://github.com/utsav-lbrok/DevSoc-23/assets/120162400/f3677851-8bb9-4afc-bad2-5f44f4eee30d)
+
+
 
 Figma - [https://www.figma.com/file/hx2isJni2TDckoRV3V6KZk/DevSoc'23-Complete?type=design&node-id=0%3A1&t=qzw3UevQSDuzPpzW-1]
 
